@@ -3,7 +3,6 @@
 - [Description](#description)
 - [Built With](#built-with)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
 - [Image of Website](#image-of-website)
 
