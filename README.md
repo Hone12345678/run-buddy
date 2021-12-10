@@ -1,3 +1,17 @@
+# lastMinute
+
+
+## Description
+
+- Motivation for development: After starting this course I think we began to realize just how limited and how value a commodity like time is. We wanted to create something that helps save time and take away stress from something that should be fun and stress free. 
+
+- Why we built this: As we've moved further along in our lives we've all begun to realize just how important time management is and how difficult it is to plan things out last minute. With this in mind we wanted to create something that would allow us to plan a fun date night or just a fun solo night at the last minute with whatever we have laying around the fridge and whatever events are going on around us. 
+
+- What problem does it solve: It helps plan out a fun night, and makes the best out of what you have at home and near by. 
+
+- What we learned: As a group learned how to utilize GitHub in a group scenario, Leverage multiple Server-Side API's, and How to work collaboratively recognizing eachothers constraints/individual challenges to create a functioning final product
+
+
 ## Table of Contents
 
 - [Description](#description)
@@ -11,7 +25,7 @@
 
 - HTML
 - JavaScript
-- css
+- CSS
 - Bootstrap (https://getbootstrap.com/)
 - Google API (https://fonts.googleapis.com/)
 - Edamam API (https://api.edamam.com/)
@@ -50,8 +64,6 @@
 
 - Date Night
 ![image](https://user-images.githubusercontent.com/46331608/145510088-932154f5-de2f-4053-a43b-4d739e980874.png)
-
-
 
 
 # Run Buddy
