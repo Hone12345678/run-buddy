@@ -3,8 +3,7 @@
 
 ## Description
 
-- Motivation for development: 
-After starting this course I think we began to realize just how limited and how value a commodity like time is. We wanted to create something that helps save time and take away stress from something that should be fun and stress free. 
+- Motivation for development - After starting this course I think we began to realize just how limited and how value a commodity like time is. We wanted to create something that helps save time and take away stress from something that should be fun and stress free. 
 
 - Why we built this: As we've moved further along in our lives we've all begun to realize just how important time management is and how difficult it is to plan things out last minute. With this in mind we wanted to create something that would allow us to plan a fun date night or just a fun solo night at the last minute with whatever we have laying around the fridge and whatever events are going on around us. 
 
