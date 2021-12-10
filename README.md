@@ -10,13 +10,13 @@
 
 ## Built With
 
--HTML
--JavaScript
--css
--Bootstrap (https://getbootstrap.com/)
--Google API (https://fonts.googleapis.com/)
--Edamam API (https://api.edamam.com/)
--SeatGeek API (https://api.seatgeek.com/)
+- HTML
+- JavaScript
+- css
+- Bootstrap (https://getbootstrap.com/)
+- Google API (https://fonts.googleapis.com/)
+- Edamam API (https://api.edamam.com/)
+- SeatGeek API (https://api.seatgeek.com/)
 
 
 ## Credits
