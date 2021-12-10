@@ -5,7 +5,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [Image of Website](image-of-website)
+- [Image of Website](#image-of-website)
 
 
 ## Built With
